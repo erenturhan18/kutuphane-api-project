@@ -1,0 +1,45 @@
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.bak
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-check-report.html
+dependency-check-report.xml
+
+# Eclipse/IntelliJ
+.settings
+.classpath
+.project
+.idea/
+*.iws
+*.iml
+*.ipr
+*.launch
+
+# Logs
+logs
+*.log
+/log/
+/logs/
+
+# Optional Spring Boot
+!/src/main/**/resources/**/application*.yml
+!/src/main/**/resources/**/application*.yaml
+!/src/main/**/resources/**/application*.properties
+# Spring Boot log folder
+/target/*.log
+
+# H2 Database files (eğer yerel H2 kullanıyorsanız)
+*.mv.db
+*.trace.db
