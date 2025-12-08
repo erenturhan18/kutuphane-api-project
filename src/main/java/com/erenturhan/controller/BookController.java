@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.erenturhan.dto.BookRequestDTO;
 import com.erenturhan.dto.BookResponseDTO;
-import com.erenturhan.model.Book;
 import com.erenturhan.service.BookService;
 
 import jakarta.validation.Valid;
