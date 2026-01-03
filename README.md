@@ -2,13 +2,10 @@
 
 Bu proje, **Spring Boot 3** kullanılarak geliştirilmiş, **JWT tabanlı kimlik doğrulama ve rol bazlı yetkilendirme** içeren bir **Kütüphane Yönetim RESTful API**’dir.
 
-Proje, bir **Junior Backend Developer** olarak;
 - Katmanlı mimariyi
 - Spring Security + JWT mantığını
 - RESTful API tasarımını
 - Yetkilendirme (USER / ADMIN) kontrolünü
-
-uygulamalı olarak bildiğimi göstermek amacıyla geliştirilmiştir.
 
 ---
 
